@@ -1,4 +1,4 @@
-Project Description (Suggested)
+Project Description
 
 Kenya Counties, Sub-Counties and Wards is a comprehensive, structured, and developer-friendly dataset containing all administrative divisions of Kenya.
 It includes:
